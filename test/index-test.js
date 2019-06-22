@@ -7,7 +7,7 @@ describe('Beatles Loops', function() {
   });
 
   describe('johnLennonFacts', function(){
-    it("returns an array of strings with exclamation points", function() {
+    it("returns an array of stringtheBeatlesPlays with exclamation points", function() {
       expect(johnLennonFacts([
         "He was the last Beatle to learn to drive",
         "He was never a vegetarian",
